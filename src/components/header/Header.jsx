@@ -9,7 +9,7 @@ const Header = () => {
   useEffect(() => {
     // Initialize Typed.js
     const typed = new Typed('.text', {
-      strings: ["Frontend Developer", "Blockchain Developer", "Java Developer", "Programmer", "Software Developer", "NLP Engineer"],
+      strings: ["Assistant System Engineer at TCS", "Frontend Developer", "Blockchain Developer", "Java Developer", "Programmer", "Software Developer", "NLP Engineer"],
       typeSpeed: 50,
       backSpeed: 50,
       backDelay: 900,

@@ -67,6 +67,7 @@ const Skills = () => {
             <li className='skill-item'><img src={msofc} alt=" "/>Ms Office</li>
             <li className='skill-item'><img src={github} alt=" "/>Github</li>
             <li className='skill-item'><img src={vs} alt=" "/>VS Code</li>
+            <li className='skill-item'><img src={java} alt=" "/>Jdbc</li>
           </ul>
         </div>
       </div>
